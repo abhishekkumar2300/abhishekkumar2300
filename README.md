@@ -1,6 +1,6 @@
-[![MasterHead](https://wallpapercave.com/wp/wp9637442.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)]()
 
-<h1 align="center">Hi 👋, I'm Abhsishek Kumar</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Software Engineer and Full-stack web developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
